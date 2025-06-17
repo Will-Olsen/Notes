@@ -1,0 +1,147 @@
+---
+marp: true
+theme: uqpresent
+paginate: false
+---
+
+<style>section { font-size: 25px; }</style>
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+<!-- headingDivider: 1 -->
+
+<!-- _class: title -->
+
+# Therapeutics and Safety in Medicine Management
+
+**PHRM7203**
+
+**MNSt ANMAC Re-accreditation**
+
+> Will Olsen BPharm(Hons) AFHEA
+
+<!--
+header: PHRM7203 | MNSt ANMAC Re-accreditation
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+ 
+# Acknowledgement of Country
+
+![bg right](./figs/UQFN2.jpeg)
+
+UQ acknowledges the Traditional Owners and their custodianship of the lands on which we meet today. We pay our respects to their Ancestors and their descendants, who continue cultural and spiritual connections to Country. We recognise their valuable contributions to Australian and global society.
+
+# Course overview
+
+**Objective:** Students who complete this course will *understand the basic therapeutic principles, quality use of medicines and the rule of the nurse and midwife in safe medication practice.*
+
+# Course design and structure
+
+Blended learning:
+
+- **UQ Extend** module to complete each week.
+- Five 2-hour **lectures** (interactive) which will start in week 2 and are delivered face to face.
+- Three 2-hour **workshops** that will start in week 5.
+
+# Topics
+
+| **Week**    | **Weekly Focus and UQ Extend Module**                                                                                                                                            | **Lectures x 6**<br><br>2 hours                            | **Workshops x 3**<br><br>2 hours                         | Assessment                                   |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- |
+| **Week 1**  | Medication Safety<br>- Principles of medication safety<br>- Medication errors<br>- Mitigating the risk of medication errors                                                      |                                                            |                                                          |                                              |
+| **Week 2**  | Pharmacokinetics and Pharmacodynamics<br>- Importance of PKPD<br>- Routes of drug administration PKPD<br>- Drug half-life<br>- Therapeutic Drug Monitoring                       | Lecture 1  <br>_Course Introduction and Medication Safety_ |                                                          |                                              |
+| **Week 3**  | Clinical Evidence and Therapeutic Decisions  <br> - Clinical trial evidence<br>- Clinical trial design<br>- Medication information sources                                       |                                                            |                                                          |                                              |
+| **Week 4**  | Cardiovascular System<br><br>-  Therapeutics of cardiac disease (Coronary heart disease)                                                                                         | Lecture 2  <br>_PKPD and Clinical Evidence_                |                                                          |                                              |
+| **Week 5**  | Asthma and Chronic Obstructive Pulmonary Disease<br>- Therapeutics of cardiac disease (Heart failure)<br>- Therapeutics of respiratory conditions (Asthma, COPD)                 | Lecture 3  <br>_Cardiovascular, Asthma and COPD_           | Workshop 1  <br>_Case: Cardiovascular_                   | Peer Assessment Case Study 1 due in Workshop |
+| **Week 6**  | Central Nervous System<br>- Therapeutics of depression and epilepsy                                                                                                              |                                                            |                                                          |                                              |
+| **Week 7**  | Anti-Microbial Medications<br>- Antibiotics<br>- Antifungals<br>- Antivirals                                                                                                     | Lecture 4  <br>_CNS and Antimicrobials_                    | Workshop 2  <br>_Case: CNS and Antimicrobial_            | Peer Assessment Case Study 2 due in Workshop |
+| **Week 8**  | Analgesics<br>- Therapeutics of pain management (acute pain)                                                                                                                     |                                                            |                                                          |                                              |
+| **Week 9**  | Gastrointestinal and Vaccination  <br>Therapeutics of: Dyspepsia, GORD, PUD, Nausea and Vomiting, Constipation, Diarrhoea                                                        | Lecture 5  <br>_Analgesia and Gastrointestinal_            | Workshop 3<br><br>_Case: Analgesia and Gastrointestinal_ | Peer Assessment Case Study 3 due in Workshop |
+| **Week 10** | Complementary medicines and VTE prophylaxis<br>- Overview of VTE<br>- Prevention of VTE<br>- Complementary medicines overview<br>- Complementary medicines and drug interactions |                                                            |                                                          | Case study Reflection Video due              |
+| **Week 11** | Medication Safety Scenarios<br>- Apply principles of medication safety in practice<br>- Identify sources of medication errors in practical scenarios                             |                                                            |                                                          |                                              |
+| **Week 12** | Revision                                                                                                                                                                         |                                                            |                                                          |                                              |
+| **Week 13** | Revision                                                                                                                                                                         |                                                            |                                                          |                                              |
+
+<!-- footer: "" -->
+<!-- header: PHRM7203 | MNSt ANMAC Re-accreditation -->
+
+# Course staff
+
+Teaching in the course is **interdisciplinary:**
+ - Pharmacists delivering interactive lecture content (4 x pharmacists)
+ - Pharmacist + Nurse/Midwife teaching workshops
+
+<!--
+header: PHRM7203 | MNSt ANMAC Re-accreditation
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Assessment
+
+ - Workshop case presentation (1 per workshop) - 3 x 5% (15% total)
+ - Case reflection video presentation - 35%
+ - Written exam (MCQ and SAQ) - 50%
+
+
+
+# Useful resources
+
+- The Australian Medicines Handbook
+
+- MIMS
+
+- Therapeutic Guidelines
+
+> Search **"UQ Pharmacy Library"** into google for all of these in one place
+
+![bg right:60% w:650 drop-shadow](./figs/uqlib.jpeg)
+
+# Activity (60 minutes)
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
+# Please hand in your completed rubric
+
+ - Ensure that every student in your group is listed on the rubric
+
+
+<!--
+header: PHRM7203 | Workshop 1
+footer: ![height:0.5in](./figs/UQlogo.jpeg) 
+-->
+
+# Thanks! Any Questions?
+
+<style scoped>
+h1 {
+  color: white;
+}
+</style>
+
+<style scoped>
+section {
+    background: rgb(75, 38, 118)
+}
+</style>
+
+<!-- footer: "" -->
+<!-- header: "" -->
+
